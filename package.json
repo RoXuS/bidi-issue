@@ -1,4 +1,11 @@
 {
   "name": "bidi-issue",
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.4.1",
+  "dependencies": {
+    "@wdio/browser-runner": "9.3.0",
+    "@wdio/cli": "9.3.0",
+    "@wdio/globals": "9.3.0",
+    "@wdio/spec-reporter": "9.2.14",
+    "lit": "3.2.1"
+  }
 }
